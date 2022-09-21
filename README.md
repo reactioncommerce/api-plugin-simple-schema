@@ -1,3 +1,9 @@
+# This repository is deprecated
+
+This code is now located in our monorepo [here](https://github.com/reactioncommerce/reaction/tree/trunk/packages/api-plugin-simple-schema)
+
+
+
 # api-plugin-simple-schema
 
 [![npm (scoped)](https://img.shields.io/npm/v/@reactioncommerce/api-plugin-simple-schema.svg)](https://www.npmjs.com/package/@reactioncommerce/api-plugin-simple-schema)
